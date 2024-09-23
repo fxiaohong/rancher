@@ -1,0 +1,1 @@
+FROM rancher/mirrored-metrics-server:v0.6.3
